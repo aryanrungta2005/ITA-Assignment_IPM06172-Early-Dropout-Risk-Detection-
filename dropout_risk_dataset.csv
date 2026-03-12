@@ -1,0 +1,101 @@
+student_id,age,gender,family_income_level,father_education,mother_education,internet_access,has_smartphone,siblings_count,prev_exam_score_1,prev_exam_score_2,academic_failures,study_time_hrs_per_week,attendance_rate_pct,extracurricular_participation,teacher_support_rating,school_distance_km,part_time_job,mental_health_score,dropout_risk
+S001,14,Male,Low,Primary,Primary,No,No,3,42,38,2,4,61,No,2,12,Yes,4,High
+S002,15,Female,Medium,Secondary,Secondary,Yes,Yes,1,72,75,0,10,89,Yes,4,3,No,8,Low
+S003,13,Male,Low,No Formal,Primary,No,No,4,35,30,3,3,52,No,2,18,No,3,High
+S004,16,Female,Medium,Secondary,Secondary,Yes,Yes,2,65,68,0,8,85,Yes,4,5,No,7,Low
+S005,15,Male,Low,Primary,No Formal,No,No,5,40,45,2,5,58,No,2,15,Yes,3,High
+S006,14,Female,High,Tertiary,Tertiary,Yes,Yes,1,88,90,0,14,95,Yes,5,2,No,9,Low
+S007,16,Male,Low,Primary,Primary,No,Yes,3,48,44,1,5,63,No,3,10,Yes,4,High
+S008,15,Female,Low,No Formal,No Formal,No,No,6,28,32,3,2,45,No,1,22,No,2,High
+S009,14,Male,Medium,Secondary,Primary,Yes,Yes,2,70,66,0,9,88,Yes,4,4,No,7,Low
+S010,16,Female,Low,Primary,Secondary,No,No,3,50,47,1,6,66,No,3,8,Yes,5,Medium
+S011,15,Male,High,Tertiary,Tertiary,Yes,Yes,0,92,94,0,16,97,Yes,5,1,No,10,Low
+S012,13,Female,Low,No Formal,Primary,No,No,4,33,36,2,3,54,No,2,20,No,3,High
+S013,16,Male,Medium,Secondary,Secondary,Yes,Yes,1,74,71,0,11,90,Yes,4,3,No,8,Low
+S014,15,Female,Low,Primary,No Formal,No,Yes,3,44,40,2,4,60,No,2,14,Yes,4,High
+S015,14,Male,Low,No Formal,No Formal,No,No,5,30,28,3,2,48,No,1,25,No,2,High
+S016,16,Female,Medium,Tertiary,Secondary,Yes,Yes,2,80,83,0,12,91,Yes,5,4,No,8,Low
+S017,15,Male,Low,Primary,Primary,No,No,4,38,41,2,4,56,No,2,17,Yes,3,High
+S018,14,Female,High,Tertiary,Tertiary,Yes,Yes,1,86,89,0,15,96,Yes,5,2,No,9,Low
+S019,16,Male,Low,Secondary,Primary,No,Yes,2,52,55,1,6,70,No,3,9,No,5,Medium
+S020,15,Female,Low,No Formal,No Formal,No,No,6,25,29,3,2,43,No,1,28,No,2,High
+S021,14,Male,Medium,Secondary,Secondary,Yes,Yes,2,68,72,0,10,87,Yes,4,5,No,7,Low
+S022,16,Female,Low,Primary,Primary,No,No,3,46,43,2,5,62,Yes,2,12,Yes,4,High
+S023,15,Male,Medium,Tertiary,Secondary,Yes,Yes,1,78,76,0,11,92,Yes,4,3,No,8,Low
+S024,13,Female,Low,No Formal,Primary,No,No,5,32,35,3,3,50,No,2,21,No,3,High
+S025,16,Male,Low,Primary,No Formal,No,Yes,4,42,39,2,4,59,No,2,16,Yes,4,High
+S026,15,Female,High,Tertiary,Tertiary,Yes,Yes,0,90,92,0,15,98,Yes,5,1,No,10,Low
+S027,14,Male,Low,Primary,Primary,No,No,3,36,40,2,4,55,No,2,19,No,3,High
+S028,16,Female,Medium,Secondary,Tertiary,Yes,Yes,2,76,79,0,12,90,Yes,5,3,No,8,Low
+S029,15,Male,Low,No Formal,No Formal,No,No,5,27,31,3,2,46,No,1,24,No,2,High
+S030,14,Female,Low,Primary,Secondary,No,Yes,2,54,57,1,6,72,No,3,8,No,5,Medium
+S031,16,Male,High,Tertiary,Tertiary,Yes,Yes,1,91,88,0,14,97,Yes,5,2,No,9,Low
+S032,15,Female,Low,No Formal,Primary,No,No,4,34,37,2,3,53,No,2,20,No,3,High
+S033,14,Male,Medium,Secondary,Secondary,Yes,Yes,2,71,68,0,10,88,Yes,4,4,No,7,Low
+S034,16,Female,Low,Primary,No Formal,No,No,3,47,44,2,5,61,No,2,13,Yes,4,High
+S035,15,Male,Low,No Formal,No Formal,No,No,6,26,30,3,2,44,No,1,27,No,2,High
+S036,14,Female,Medium,Tertiary,Secondary,Yes,Yes,1,82,85,0,13,93,Yes,5,3,No,8,Low
+S037,16,Male,Low,Primary,Primary,No,Yes,3,49,46,1,5,64,No,3,11,Yes,5,Medium
+S038,15,Female,Low,Primary,No Formal,No,No,4,39,42,2,4,58,No,2,16,Yes,3,High
+S039,14,Male,High,Tertiary,Tertiary,Yes,Yes,0,93,95,0,16,98,Yes,5,1,No,10,Low
+S040,16,Female,Low,No Formal,Primary,No,No,5,31,34,3,3,49,No,1,23,No,2,High
+S041,15,Male,Medium,Secondary,Secondary,Yes,Yes,2,69,73,0,10,89,Yes,4,4,No,7,Low
+S042,14,Female,Low,Primary,Primary,No,No,3,43,47,2,4,60,No,2,14,Yes,4,High
+S043,16,Male,Low,No Formal,No Formal,No,No,5,24,28,3,2,42,No,1,29,No,2,High
+S044,15,Female,Medium,Tertiary,Tertiary,Yes,Yes,1,84,87,0,13,94,Yes,5,2,No,9,Low
+S045,14,Male,Low,Primary,Secondary,No,Yes,2,55,58,1,6,73,No,3,9,No,6,Medium
+S046,16,Female,Low,No Formal,No Formal,No,No,6,29,32,3,2,47,No,1,26,No,2,High
+S047,15,Male,High,Tertiary,Tertiary,Yes,Yes,0,89,91,0,15,97,Yes,5,1,No,10,Low
+S048,14,Female,Low,Primary,Primary,No,No,4,37,40,2,4,54,No,2,18,No,3,High
+S049,16,Male,Medium,Secondary,Secondary,Yes,Yes,2,73,70,0,11,89,Yes,4,4,No,7,Low
+S050,15,Female,Low,No Formal,Primary,No,No,5,33,36,2,3,51,No,2,21,No,3,High
+S051,14,Male,Low,Primary,No Formal,No,Yes,3,45,48,1,5,65,No,3,10,Yes,5,Medium
+S052,16,Female,High,Tertiary,Tertiary,Yes,Yes,1,87,90,0,14,96,Yes,5,2,No,9,Low
+S053,15,Male,Low,No Formal,No Formal,No,No,6,23,27,3,2,41,No,1,30,No,2,High
+S054,14,Female,Medium,Secondary,Tertiary,Yes,Yes,2,77,80,0,12,91,Yes,5,3,No,8,Low
+S055,16,Male,Low,Primary,Primary,No,No,3,41,45,2,4,59,No,2,15,Yes,4,High
+S056,15,Female,Low,No Formal,No Formal,No,No,5,28,31,3,2,45,No,1,25,No,2,High
+S057,14,Male,Medium,Tertiary,Secondary,Yes,Yes,1,81,83,0,12,93,Yes,5,3,No,8,Low
+S058,16,Female,Low,Primary,Primary,No,Yes,3,50,53,1,6,68,No,3,11,Yes,5,Medium
+S059,15,Male,Low,No Formal,Primary,No,No,4,35,38,2,3,53,No,2,19,No,3,High
+S060,14,Female,High,Tertiary,Tertiary,Yes,Yes,0,94,96,0,16,99,Yes,5,1,No,10,Low
+S061,16,Male,Low,Primary,No Formal,No,No,4,40,43,2,4,57,No,2,16,Yes,4,High
+S062,15,Female,Medium,Secondary,Secondary,Yes,Yes,2,67,70,0,10,87,Yes,4,5,No,7,Low
+S063,14,Male,Low,No Formal,No Formal,No,No,6,22,26,3,2,40,No,1,31,No,1,High
+S064,16,Female,Low,Primary,Primary,No,No,3,44,47,2,5,61,No,2,13,Yes,4,High
+S065,15,Male,High,Tertiary,Tertiary,Yes,Yes,1,88,91,0,15,97,Yes,5,1,No,9,Low
+S066,14,Female,Low,No Formal,Primary,No,No,5,30,33,3,3,49,No,1,22,No,2,High
+S067,16,Male,Medium,Secondary,Tertiary,Yes,Yes,2,75,78,0,11,90,Yes,4,4,No,8,Low
+S068,15,Female,Low,Primary,No Formal,No,Yes,3,46,49,1,5,66,No,3,10,Yes,5,Medium
+S069,14,Male,Low,No Formal,No Formal,No,No,5,25,29,3,2,43,No,1,28,No,2,High
+S070,16,Female,Medium,Tertiary,Secondary,Yes,Yes,1,83,86,0,13,94,Yes,5,2,No,9,Low
+S071,15,Male,Low,Primary,Primary,No,No,4,38,41,2,4,56,No,2,17,Yes,3,High
+S072,14,Female,Low,No Formal,No Formal,No,No,6,27,31,3,2,45,No,1,26,No,2,High
+S073,16,Male,High,Tertiary,Tertiary,Yes,Yes,0,92,94,0,16,98,Yes,5,1,No,10,Low
+S074,15,Female,Low,Primary,Secondary,No,Yes,2,53,56,1,6,71,No,3,8,No,6,Medium
+S075,14,Male,Medium,Secondary,Secondary,Yes,Yes,2,70,67,0,10,88,Yes,4,5,No,7,Low
+S076,16,Female,Low,No Formal,Primary,No,No,5,32,35,2,3,52,No,2,20,No,3,High
+S077,15,Male,Low,Primary,No Formal,No,No,3,42,45,2,4,60,No,2,14,Yes,4,High
+S078,14,Female,High,Tertiary,Tertiary,Yes,Yes,1,85,88,0,14,96,Yes,5,2,No,9,Low
+S079,16,Male,Low,No Formal,No Formal,No,No,6,24,28,3,2,42,No,1,29,No,2,High
+S080,15,Female,Medium,Secondary,Tertiary,Yes,Yes,1,79,82,0,12,92,Yes,5,3,No,8,Low
+S081,14,Male,Low,Primary,Primary,No,Yes,3,47,50,1,5,64,No,3,12,Yes,5,Medium
+S082,16,Female,Low,No Formal,No Formal,No,No,5,26,30,3,2,44,No,1,27,No,2,High
+S083,15,Male,High,Tertiary,Tertiary,Yes,Yes,0,91,93,0,15,97,Yes,5,1,No,10,Low
+S084,14,Female,Low,Primary,Primary,No,No,4,36,39,2,4,54,No,2,18,No,3,High
+S085,16,Male,Medium,Secondary,Secondary,Yes,Yes,2,72,75,0,10,89,Yes,4,4,No,7,Low
+S086,15,Female,Low,No Formal,Primary,No,No,5,31,34,3,3,50,No,1,23,No,2,High
+S087,14,Male,Low,Primary,No Formal,No,No,3,43,46,2,4,59,No,2,15,Yes,4,High
+S088,16,Female,High,Tertiary,Tertiary,Yes,Yes,1,89,92,0,14,96,Yes,5,2,No,9,Low
+S089,15,Male,Low,No Formal,No Formal,No,No,6,21,25,3,2,39,No,1,32,No,1,High
+S090,14,Female,Medium,Tertiary,Secondary,Yes,Yes,1,80,83,0,12,93,Yes,5,3,No,8,Low
+S091,16,Male,Low,Primary,Primary,No,Yes,3,48,51,1,5,65,No,3,11,Yes,5,Medium
+S092,15,Female,Low,No Formal,No Formal,No,No,5,29,33,3,2,46,No,1,24,No,2,High
+S093,14,Male,High,Tertiary,Tertiary,Yes,Yes,0,93,95,0,16,98,Yes,5,1,No,10,Low
+S094,16,Female,Low,Primary,Secondary,No,No,3,45,48,2,5,62,No,2,13,Yes,4,High
+S095,15,Male,Medium,Secondary,Secondary,Yes,Yes,2,68,71,0,10,88,Yes,4,4,No,7,Low
+S096,14,Female,Low,No Formal,Primary,No,No,5,34,37,2,3,53,No,2,19,No,3,High
+S097,16,Male,Low,Primary,No Formal,No,No,4,39,42,2,4,57,No,2,16,Yes,3,High
+S098,15,Female,High,Tertiary,Tertiary,Yes,Yes,0,90,93,0,15,97,Yes,5,1,No,10,Low
+S099,14,Male,Low,No Formal,No Formal,No,No,6,23,27,3,2,41,No,1,30,No,2,High
+S100,16,Female,Medium,Secondary,Tertiary,Yes,Yes,2,76,79,0,11,91,Yes,4,3,No,8,Low
